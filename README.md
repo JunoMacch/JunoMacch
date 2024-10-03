@@ -5,6 +5,7 @@
 - Pronomes ele/dele
 
 <img align="right" alt="workspace" height="250" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunoMacch&exclude_repo=github-readme-stats,JunoMacch.github.io&langs_count=8&layout=compact&theme=dark)
 
 

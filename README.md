@@ -6,10 +6,7 @@
 - Estudando Java
 - Pronomes ele/dele
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunoMacch&exclude_repo=github-readme-stats,JunoMacch.github.io&langs_count=8&layout=compact&theme=dark)
-
 
 <div stryle="display: inline_block"><br>
   <img align="center" alt="Juno-Java" 

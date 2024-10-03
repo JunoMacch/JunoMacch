@@ -23,4 +23,4 @@
   <a href = "mailto:junomacch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/<JunoMacch>/<JunoMacch>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<JunoMacch>/<JunoMacch>/blob/output/github-contribution-grid-snake.svg)

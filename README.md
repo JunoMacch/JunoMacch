@@ -4,7 +4,6 @@
 
 - Hoje estou a procura de uma vaga de back-end
 - Estudando Java
-- Pronomes ele/dele
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunoMacch&exclude_repo=github-readme-stats,JunoMacch.github.io&langs_count=8&layout=compact&theme=dark)
 
